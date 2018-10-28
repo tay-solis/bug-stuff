@@ -1,0 +1,245 @@
+[
+  {
+    "Genus": "Haplothrips",
+    "Species": "leucanthemi",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 71241,
+    "URL": "https://bugguide.net/node/view/71241",
+    "Common Name": "Clover thrips"
+  },
+  {
+    "Genus": "Scirtothrips",
+    "Species": "dorsalis",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 194783,
+    "URL": "https://bugguide.net/node/view/194783",
+    "Common Name": "Chilli thrips"
+  },
+  {
+    "Genus": "Gynaikothrips",
+    "Species": "ficorum",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 233774,
+    "URL": "https://bugguide.net/node/view/233774",
+    "Common Name": "Cuban Laurel Thrips"
+  },
+  {
+    "Genus": "Franklinothrips",
+    "Species": "vespiformis",
+    "Family": "Aeolothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 354510,
+    "URL": "https://bugguide.net/node/view/354510",
+    "Common Name": "Franklinothrips vespiformis"
+  },
+  {
+    "Genus": "Klambothrips",
+    "Species": "myopori",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 361513,
+    "URL": "https://bugguide.net/node/view/361513",
+    "Common Name": "Myoporum Thrips"
+  },
+  {
+    "Genus": "Thrips",
+    "Species": "tabaci",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 374360,
+    "URL": "https://bugguide.net/node/view/374360",
+    "Common Name": "Onion Thrips"
+  },
+  {
+    "Genus": "Psilothrips",
+    "Species": "pardalotus",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 420011,
+    "URL": "https://bugguide.net/node/view/420011",
+    "Common Name": "Psilothrips pardalotus"
+  },
+  {
+    "Genus": "Neohydatothrips",
+    "Species": "variabilis",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 666854,
+    "URL": "https://bugguide.net/node/view/666854",
+    "Common Name": "Soybean Thrips"
+  },
+  {
+    "Genus": "Salpingothrips",
+    "Species": "aimotofus",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 702763,
+    "URL": "https://bugguide.net/node/view/702763",
+    "Common Name": "Salpingothrips aimotofus"
+  },
+  {
+    "Genus": "Heliothrips",
+    "Species": "haemorrhoidalis",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 895505,
+    "URL": "https://bugguide.net/node/view/895505",
+    "Common Name": "Greenhouse Thrips"
+  },
+  {
+    "Genus": "Aeolothrips",
+    "Species": "kuwanaii",
+    "Family": "Aeolothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 939028,
+    "URL": "https://bugguide.net/node/view/939028",
+    "Common Name": "Aeolothrips kuwanaii"
+  },
+  {
+    "Genus": "Echinothrips",
+    "Species": "americanus",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1042385,
+    "URL": "https://bugguide.net/node/view/1042385",
+    "Common Name": "Echinothrips americanus"
+  },
+  {
+    "Genus": "Heterothrips",
+    "Species": "aesculi",
+    "Family": "Heterothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1061117,
+    "URL": "https://bugguide.net/node/view/1061117",
+    "Common Name": "Heterothrips aesculi"
+  },
+  {
+    "Genus": "Ctenothrips",
+    "Species": "bridwelli",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1088366,
+    "URL": "https://bugguide.net/node/view/1088366",
+    "Common Name": "Ctenothrips bridwelli"
+  },
+  {
+    "Genus": "Merothrips",
+    "Species": "floridensis",
+    "Family": "Merothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1099064,
+    "URL": "https://bugguide.net/node/view/1099064",
+    "Common Name": "Merothrips floridensis"
+  },
+  {
+    "Genus": "Neohydatothrips",
+    "Species": "samayunkur",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1211339,
+    "URL": "https://bugguide.net/node/view/1211339",
+    "Common Name": "Marigold Thrips"
+  },
+  {
+    "Genus": "Parthenothrips",
+    "Species": "dracaenae",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1211360,
+    "URL": "https://bugguide.net/node/view/1211360",
+    "Common Name": "Parlour Palm Thrips"
+  },
+  {
+    "Genus": "Orothrips",
+    "Species": "kelloggi",
+    "Family": "Aeolothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1288844,
+    "URL": "https://bugguide.net/node/view/1288844",
+    "Common Name": "Orothrips kelloggi"
+  },
+  {
+    "Genus": "Torvothrips",
+    "Species": "kosztarabi",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1289089,
+    "URL": "https://bugguide.net/node/view/1289089",
+    "Common Name": "Torvothrips kosztarabi"
+  },
+  {
+    "Genus": "Erythrothrips",
+    "Species": "keeni",
+    "Family": "Aeolothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1290601,
+    "URL": "https://bugguide.net/node/view/1290601",
+    "Common Name": "Erythrothrips keeni"
+  },
+  {
+    "Genus": "Selenothrips",
+    "Species": "rubrocinctus",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1317048,
+    "URL": "https://bugguide.net/node/view/1317048",
+    "Common Name": "Red-banded Thrips"
+  },
+  {
+    "Genus": "Frankliniella",
+    "Species": "tritici",
+    "Family": "Thripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1374025,
+    "URL": "https://bugguide.net/node/view/1374025",
+    "Common Name": "Frankliniella tritici"
+  },
+  {
+    "Genus": "Neurothrips",
+    "Species": "magnafemoralis",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1385967,
+    "URL": "https://bugguide.net/node/view/1385967",
+    "Common Name": "Neurothrips magnafemoralis"
+  },
+  {
+    "Genus": "Aeolothrips",
+    "Species": "collaris",
+    "Family": "Aeolothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1400339,
+    "URL": "https://bugguide.net/node/view/1400339",
+    "Common Name": "Aeolothrips collaris"
+  },
+  {
+    "Genus": "Elaphrothrips",
+    "Species": "tuberculatus",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1414069,
+    "URL": "https://bugguide.net/node/view/1414069",
+    "Common Name": "Elaphrothrips tuberculatus"
+  },
+  {
+    "Genus": "Liothrips",
+    "Species": "ilex",
+    "Family": "Phlaeothripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1499441,
+    "URL": "https://bugguide.net/node/view/1499441",
+    "Common Name": "Toyon Thrips"
+  },
+  {
+    "Genus": "Ankothrips",
+    "Species": "yuccae",
+    "Family": "Melanthripidae",
+    "Order": "Thysanoptera",
+    "BugGuideID": 1510506,
+    "URL": "https://bugguide.net/node/view/1510506",
+    "Common Name": "Ankothrips yuccae"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "Genus": "Anisomorpha",
+    "Species": "buprestoides",
+    "Family": "Pseudophasmatidae",
+    "Order": "Phasmida",
+    "BugGuideID": 510,
+    "URL": "https://bugguide.net/node/view/510",
+    "Common Name": "Southern Two-striped Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "femorata",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 34736,
+    "URL": "https://bugguide.net/node/view/34736",
+    "Common Name": "Northern Walkingstick"
+  },
+  {
+    "Genus": "Parabacillus",
+    "Species": "hesperus",
+    "Family": "Heteronemiidae",
+    "Order": "Phasmida",
+    "BugGuideID": 69508,
+    "URL": "https://bugguide.net/node/view/69508",
+    "Common Name": "Western Short-horn Walkingstick"
+  },
+  {
+    "Genus": "Megaphasma",
+    "Species": "denticrus",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 85378,
+    "URL": "https://bugguide.net/node/view/85378",
+    "Common Name": "Giant Walkingstick"
+  },
+  {
+    "Genus": "Parabacillus",
+    "Species": "coloradus",
+    "Family": "Heteronemiidae",
+    "Order": "Phasmida",
+    "BugGuideID": 85814,
+    "URL": "https://bugguide.net/node/view/85814",
+    "Common Name": "Colorado Short-horn walkingstick"
+  },
+  {
+    "Genus": "Pseudosermyle",
+    "Species": "stramineus",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 93312,
+    "URL": "https://bugguide.net/node/view/93312",
+    "Common Name": "Pseudosermyle stramineus"
+  },
+  {
+    "Genus": "Anisomorpha",
+    "Species": "ferruginea",
+    "Family": "Pseudophasmatidae",
+    "Order": "Phasmida",
+    "BugGuideID": 93384,
+    "URL": "https://bugguide.net/node/view/93384",
+    "Common Name": "Northern Two-striped Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "covilleae",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 93389,
+    "URL": "https://bugguide.net/node/view/93389",
+    "Common Name": "Creosote Bush Walkingstick"
+  },
+  {
+    "Genus": "Manomera",
+    "Species": "blatchleyi",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 214070,
+    "URL": "https://bugguide.net/node/view/214070",
+    "Common Name": "Blatchley Walkingstick"
+  },
+  {
+    "Genus": "Carausius",
+    "Species": "morosus",
+    "Family": "Phasmatidae",
+    "Order": "Phasmida",
+    "BugGuideID": 267361,
+    "URL": "https://bugguide.net/node/view/267361",
+    "Common Name": "Indian Stick Insect"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "velii",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 281222,
+    "URL": "https://bugguide.net/node/view/281222",
+    "Common Name": "Prairie Walkingstick"
+  },
+  {
+    "Genus": "Sermyle",
+    "Species": "mexicana",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 416032,
+    "URL": "https://bugguide.net/node/view/416032",
+    "Common Name": "Mexican Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "persimilis",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 544745,
+    "URL": "https://bugguide.net/node/view/544745",
+    "Common Name": "Diapheromera persimilis"
+  },
+  {
+    "Genus": "Pseudosermyle",
+    "Species": "catalinae",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604817,
+    "URL": "https://bugguide.net/node/view/604817",
+    "Common Name": "Catalina Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "arizonensis",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604820,
+    "URL": "https://bugguide.net/node/view/604820",
+    "Common Name": "Arizona Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "tamaulipensis",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604827,
+    "URL": "https://bugguide.net/node/view/604827",
+    "Common Name": "Tamaulipan Walkingstick"
+  },
+  {
+    "Genus": "Manomera",
+    "Species": "tenuescens",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604835,
+    "URL": "https://bugguide.net/node/view/604835",
+    "Common Name": "Slender-bodied Walkingstick"
+  },
+  {
+    "Genus": "Pseudosermyle",
+    "Species": "strigata",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604838,
+    "URL": "https://bugguide.net/node/view/604838",
+    "Common Name": "Striped Walkingstick"
+  },
+  {
+    "Genus": "Diapheromera",
+    "Species": "carolina",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 604841,
+    "URL": "https://bugguide.net/node/view/604841",
+    "Common Name": "Carolina Walkingstick"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "californicum",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 795659,
+    "URL": "https://bugguide.net/node/view/795659",
+    "Common Name": "Timema californicum"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "podura",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 795959,
+    "URL": "https://bugguide.net/node/view/795959",
+    "Common Name": "Timema podura"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "poppense",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 795960,
+    "URL": "https://bugguide.net/node/view/795960",
+    "Common Name": "Timema poppense"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "cristinae",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 806969,
+    "URL": "https://bugguide.net/node/view/806969",
+    "Common Name": "Timema cristinae"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "chumash",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 807080,
+    "URL": "https://bugguide.net/node/view/807080",
+    "Common Name": "Timema chumash"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "boharti",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 979585,
+    "URL": "https://bugguide.net/node/view/979585",
+    "Common Name": "Timema boharti"
+  },
+  {
+    "Genus": "Haplopus",
+    "Species": "scabricollis",
+    "Family": "Phasmatidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1050028,
+    "URL": "https://bugguide.net/node/view/1050028",
+    "Common Name": "Mayer's Walkingstick"
+  },
+  {
+    "Genus": "Peruphasma",
+    "Species": "schultei",
+    "Family": "Pseudophasmatidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1351085,
+    "URL": "https://bugguide.net/node/view/1351085",
+    "Common Name": "Peruphasma schultei"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "ritense",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1356575,
+    "URL": "https://bugguide.net/node/view/1356575",
+    "Common Name": "Timema ritense"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "nevadense",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1367736,
+    "URL": "https://bugguide.net/node/view/1367736",
+    "Common Name": "Timema nevadense"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "genevievae",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1375232,
+    "URL": "https://bugguide.net/node/view/1375232",
+    "Common Name": "Timema genevievae"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "bartmani",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1376946,
+    "URL": "https://bugguide.net/node/view/1376946",
+    "Common Name": "Timema bartmani"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "knulli",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1513293,
+    "URL": "https://bugguide.net/node/view/1513293",
+    "Common Name": "Timema knulli"
+  },
+  {
+    "Genus": "Timema",
+    "Species": "monikense",
+    "Family": "Timematidae",
+    "Order": "Phasmida",
+    "BugGuideID": 1515618,
+    "URL": "https://bugguide.net/node/view/1515618",
+    "Common Name": "Timema monikense"
+  },
+  {
+    "Genus": "Manomera",
+    "Species": "brachypyga",
+    "Family": "Diapheromeridae",
+    "Order": "Phasmida",
+    "BugGuideID": 1555510,
+    "URL": "https://bugguide.net/node/view/1555510",
+    "Common Name": "Short-Rumped Walkingstick"
+  }
+]

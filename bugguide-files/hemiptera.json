@@ -1,0 +1,1793 @@
+[
+  {
+    "Genus": "Leptophlebia",
+    "Species": "cupida",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 34169,
+    "URL": "https://bugguide.net/node/view/34169",
+    "Common Name": "Early Brown Spinner"
+  },
+  {
+    "Genus": "Leptophlebia",
+    "Species": "intermedia",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 46313,
+    "URL": "https://bugguide.net/node/view/46313",
+    "Common Name": "Leptophlebia intermedia"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "invaria",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 50754,
+    "URL": "https://bugguide.net/node/view/50754",
+    "Common Name": "Ephemerella invaria"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "tertius",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 50757,
+    "URL": "https://bugguide.net/node/view/50757",
+    "Common Name": "Ameletus tertius"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "subvaria",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 51689,
+    "URL": "https://bugguide.net/node/view/51689",
+    "Common Name": "Ephemerella subvaria"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "vitreus",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 52855,
+    "URL": "https://bugguide.net/node/view/52855",
+    "Common Name": "Epeorus vitreus"
+  },
+  {
+    "Genus": "Hexagenia",
+    "Species": "limbata",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 52934,
+    "URL": "https://bugguide.net/node/view/52934",
+    "Common Name": "Hexagenia limbata"
+  },
+  {
+    "Genus": "Baetisca",
+    "Species": "laurentina",
+    "Family": "Baetiscidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 52977,
+    "URL": "https://bugguide.net/node/view/52977",
+    "Common Name": "Baetisca laurentina"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "interpunctatum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 53405,
+    "URL": "https://bugguide.net/node/view/53405",
+    "Common Name": "Stenacron interpunctatum"
+  },
+  {
+    "Genus": "Arthroplea",
+    "Species": "bipunctata",
+    "Family": "Arthropleidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 53413,
+    "URL": "https://bugguide.net/node/view/53413",
+    "Common Name": "Arthroplea bipunctata"
+  },
+  {
+    "Genus": "Eurylophella",
+    "Species": "prudentalis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56171,
+    "URL": "https://bugguide.net/node/view/56171",
+    "Common Name": "Eurylophella prudentalis"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "modestum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56172,
+    "URL": "https://bugguide.net/node/view/56172",
+    "Common Name": "Maccaffertium modestum"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "pleuralis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56327,
+    "URL": "https://bugguide.net/node/view/56327",
+    "Common Name": "Epeorus pleuralis"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "browni",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56328,
+    "URL": "https://bugguide.net/node/view/56328",
+    "Common Name": "Ameletus browni"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "aurivillii",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56329,
+    "URL": "https://bugguide.net/node/view/56329",
+    "Common Name": "Ephemerella aurivillii"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "ludens",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56331,
+    "URL": "https://bugguide.net/node/view/56331",
+    "Common Name": "Ameletus ludens"
+  },
+  {
+    "Genus": "Siphloplecton",
+    "Species": "basale",
+    "Family": "Metretopodidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 56334,
+    "URL": "https://bugguide.net/node/view/56334",
+    "Common Name": "Siphloplecton basale"
+  },
+  {
+    "Genus": "Iswaeon",
+    "Species": "anoka",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 113321,
+    "URL": "https://bugguide.net/node/view/113321",
+    "Common Name": "Iswaeon anoka"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "quebecensis",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 123919,
+    "URL": "https://bugguide.net/node/view/123919",
+    "Common Name": "Siphlonurus quebecensis"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "typicus",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 123920,
+    "URL": "https://bugguide.net/node/view/123920",
+    "Common Name": "Siphlonurus typicus"
+  },
+  {
+    "Genus": "Timpanoga",
+    "Species": "hecuba",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 129575,
+    "URL": "https://bugguide.net/node/view/129575",
+    "Common Name": "Timpanoga hecuba"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "velma",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 139645,
+    "URL": "https://bugguide.net/node/view/139645",
+    "Common Name": "Isonychia velma"
+  },
+  {
+    "Genus": "Stenonema",
+    "Species": "femoratum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 184104,
+    "URL": "https://bugguide.net/node/view/184104",
+    "Common Name": "Stenonema femoratum"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "doddsii",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 184118,
+    "URL": "https://bugguide.net/node/view/184118",
+    "Common Name": "Drunella doddsii"
+  },
+  {
+    "Genus": "Ephemera",
+    "Species": "varia",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 184393,
+    "URL": "https://bugguide.net/node/view/184393",
+    "Common Name": "Yellow Drake"
+  },
+  {
+    "Genus": "Ephemera",
+    "Species": "simulans",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 193559,
+    "URL": "https://bugguide.net/node/view/193559",
+    "Common Name": "Ephemera simulans"
+  },
+  {
+    "Genus": "Rhithrogena",
+    "Species": "brunneotincta",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 196197,
+    "URL": "https://bugguide.net/node/view/196197",
+    "Common Name": "Rhithrogena brunneotincta"
+  },
+  {
+    "Genus": "Neoleptophlebia",
+    "Species": "mollis",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 197255,
+    "URL": "https://bugguide.net/node/view/197255",
+    "Common Name": "Neoleptophlebia mollis"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "flavilinea",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 197738,
+    "URL": "https://bugguide.net/node/view/197738",
+    "Common Name": "Drunella flavilinea"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "ferrugineus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 200067,
+    "URL": "https://bugguide.net/node/view/200067",
+    "Common Name": "Callibaetis ferrugineus"
+  },
+  {
+    "Genus": "Anthopotamus",
+    "Species": "neglectus",
+    "Family": "Potamanthidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 203441,
+    "URL": "https://bugguide.net/node/view/203441",
+    "Common Name": "Anthopotamus neglectus"
+  },
+  {
+    "Genus": "Anthopotamus",
+    "Species": "verticis",
+    "Family": "Potamanthidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 203443,
+    "URL": "https://bugguide.net/node/view/203443",
+    "Common Name": "Anthopotamus verticis"
+  },
+  {
+    "Genus": "Cloeon",
+    "Species": "dipterum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 206197,
+    "URL": "https://bugguide.net/node/view/206197",
+    "Common Name": "Cloeon dipterum"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "terminatum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 208380,
+    "URL": "https://bugguide.net/node/view/208380",
+    "Common Name": "Maccaffertium terminatum"
+  },
+  {
+    "Genus": "Habrophleboides",
+    "Species": "americana",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 208821,
+    "URL": "https://bugguide.net/node/view/208821",
+    "Common Name": "Habrophleboides americana"
+  },
+  {
+    "Genus": "Serratella",
+    "Species": "serrata",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 209784,
+    "URL": "https://bugguide.net/node/view/209784",
+    "Common Name": "Serratella serrata"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "hebe",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 209788,
+    "URL": "https://bugguide.net/node/view/209788",
+    "Common Name": "Leucrocuta hebe"
+  },
+  {
+    "Genus": "Heptagenia",
+    "Species": "flavescens",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 209793,
+    "URL": "https://bugguide.net/node/view/209793",
+    "Common Name": "Heptagenia flavescens"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "lata",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 215150,
+    "URL": "https://bugguide.net/node/view/215150",
+    "Common Name": "Drunella lata"
+  },
+  {
+    "Genus": "Ephoron",
+    "Species": "album",
+    "Family": "Polymitarcyidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 225562,
+    "URL": "https://bugguide.net/node/view/225562",
+    "Common Name": "White Fly"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "cryptostimulus",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 231128,
+    "URL": "https://bugguide.net/node/view/231128",
+    "Common Name": "Ameletus cryptostimulus"
+  },
+  {
+    "Genus": "Anthopotamus",
+    "Species": "distinctus",
+    "Family": "Potamanthidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 231136,
+    "URL": "https://bugguide.net/node/view/231136",
+    "Common Name": "Anthopotamus distinctus"
+  },
+  {
+    "Genus": "Rhithrogena",
+    "Species": "flavianula",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 239693,
+    "URL": "https://bugguide.net/node/view/239693",
+    "Common Name": "Rhithrogena flavianula"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "flavistriga",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249102,
+    "URL": "https://bugguide.net/node/view/249102",
+    "Common Name": "Baetis flavistriga"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "intercalaris",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249108,
+    "URL": "https://bugguide.net/node/view/249108",
+    "Common Name": "Baetis intercalaris"
+  },
+  {
+    "Genus": "Caenis",
+    "Species": "tardata",
+    "Family": "Caenidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249112,
+    "URL": "https://bugguide.net/node/view/249112",
+    "Common Name": "Caenis tardata"
+  },
+  {
+    "Genus": "Procloeon",
+    "Species": "viridoculare",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249113,
+    "URL": "https://bugguide.net/node/view/249113",
+    "Common Name": "Procloeon viridoculare"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "cornutella",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249121,
+    "URL": "https://bugguide.net/node/view/249121",
+    "Common Name": "Drunella cornutella"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "cornuta",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249132,
+    "URL": "https://bugguide.net/node/view/249132",
+    "Common Name": "Drunella cornuta"
+  },
+  {
+    "Genus": "Procloeon",
+    "Species": "rubropictum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 249241,
+    "URL": "https://bugguide.net/node/view/249241",
+    "Common Name": "Procloeon rubropictum"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "tricaudatus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 250112,
+    "URL": "https://bugguide.net/node/view/250112",
+    "Common Name": "Baetis tricaudatus"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "vicarium",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 251070,
+    "URL": "https://bugguide.net/node/view/251070",
+    "Common Name": "Maccaffertium vicarium"
+  },
+  {
+    "Genus": "Hexagenia",
+    "Species": "atrocaudata",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 253300,
+    "URL": "https://bugguide.net/node/view/253300",
+    "Common Name": "Hexagenia atrocaudata"
+  },
+  {
+    "Genus": "Hexagenia",
+    "Species": "bilineata",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 253434,
+    "URL": "https://bugguide.net/node/view/253434",
+    "Common Name": "Hexagenia bilineata"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "namatus",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 253436,
+    "URL": "https://bugguide.net/node/view/253436",
+    "Common Name": "Epeorus namatus"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "pictus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 253437,
+    "URL": "https://bugguide.net/node/view/253437",
+    "Common Name": "Callibaetis pictus"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "pelosa",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 253813,
+    "URL": "https://bugguide.net/node/view/253813",
+    "Common Name": "Drunella pelosa"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "bicolor",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 254814,
+    "URL": "https://bugguide.net/node/view/254814",
+    "Common Name": "Isonychia bicolor"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "lineatus",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 255289,
+    "URL": "https://bugguide.net/node/view/255289",
+    "Common Name": "Ameletus lineatus"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "mirus",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 255294,
+    "URL": "https://bugguide.net/node/view/255294",
+    "Common Name": "Siphlonurus mirus"
+  },
+  {
+    "Genus": "Rhithrogena",
+    "Species": "impersonata",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 261038,
+    "URL": "https://bugguide.net/node/view/261038",
+    "Common Name": "Rhithrogena impersonata"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "grandis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 262599,
+    "URL": "https://bugguide.net/node/view/262599",
+    "Common Name": "Drunella grandis"
+  },
+  {
+    "Genus": "Leptophlebia",
+    "Species": "nebulosa",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 263155,
+    "URL": "https://bugguide.net/node/view/263155",
+    "Common Name": "Leptophlebia nebulosa"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "marshalli",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 264188,
+    "URL": "https://bugguide.net/node/view/264188",
+    "Common Name": "Siphlonurus marshalli"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "dorothea",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 282053,
+    "URL": "https://bugguide.net/node/view/282053",
+    "Common Name": "Ephemerella dorothea"
+  },
+  {
+    "Genus": "Acentrella",
+    "Species": "turbida",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 295406,
+    "URL": "https://bugguide.net/node/view/295406",
+    "Common Name": "Acentrella turbida"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "rapidus",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 295673,
+    "URL": "https://bugguide.net/node/view/295673",
+    "Common Name": "Siphlonurus rapidus"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "fluctuans",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 297052,
+    "URL": "https://bugguide.net/node/view/297052",
+    "Common Name": "Callibaetis fluctuans"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "obscura",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 297668,
+    "URL": "https://bugguide.net/node/view/297668",
+    "Common Name": "Isonychia obscura"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "pretiosus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 309414,
+    "URL": "https://bugguide.net/node/view/309414",
+    "Common Name": "Callibaetis pretiosus"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "fragilis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 309690,
+    "URL": "https://bugguide.net/node/view/309690",
+    "Common Name": "Epeorus fragilis"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "floridanus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 310118,
+    "URL": "https://bugguide.net/node/view/310118",
+    "Common Name": "Callibaetis floridanus"
+  },
+  {
+    "Genus": "Ephoron",
+    "Species": "leukon",
+    "Family": "Polymitarcyidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 316968,
+    "URL": "https://bugguide.net/node/view/316968",
+    "Common Name": "White Fly"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "spectabilis",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 321995,
+    "URL": "https://bugguide.net/node/view/321995",
+    "Common Name": "Siphlonurus spectabilis"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "jewetti",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 335460,
+    "URL": "https://bugguide.net/node/view/335460",
+    "Common Name": "Leucrocuta jewetti"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "securifer",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 338699,
+    "URL": "https://bugguide.net/node/view/338699",
+    "Common Name": "Siphlonurus securifer"
+  },
+  {
+    "Genus": "Eurylophella",
+    "Species": "aestiva",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 339404,
+    "URL": "https://bugguide.net/node/view/339404",
+    "Common Name": "Eurylophella aestiva"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "sicca",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 346176,
+    "URL": "https://bugguide.net/node/view/346176",
+    "Common Name": "Isonychia sicca"
+  },
+  {
+    "Genus": "Neoleptophlebia",
+    "Species": "memorialis",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 378413,
+    "URL": "https://bugguide.net/node/view/378413",
+    "Common Name": "Neoleptophlebia memorialis"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "pudicum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 380991,
+    "URL": "https://bugguide.net/node/view/380991",
+    "Common Name": "Maccaffertium pudicum"
+  },
+  {
+    "Genus": "Leptophlebia",
+    "Species": "pacifica",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 388227,
+    "URL": "https://bugguide.net/node/view/388227",
+    "Common Name": "Leptophlebia pacifica"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "vernalis",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 390414,
+    "URL": "https://bugguide.net/node/view/390414",
+    "Common Name": "Ameletus vernalis"
+  },
+  {
+    "Genus": "Acerpenna",
+    "Species": "macdunnoughi",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 394334,
+    "URL": "https://bugguide.net/node/view/394334",
+    "Common Name": "Acerpenna macdunnoughi"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "rufa",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 404482,
+    "URL": "https://bugguide.net/node/view/404482",
+    "Common Name": "Isonychia rufa"
+  },
+  {
+    "Genus": "Eurylophella",
+    "Species": "verisimilis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 411753,
+    "URL": "https://bugguide.net/node/view/411753",
+    "Common Name": "Eurylophella verisimilis"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "vaciva",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 421627,
+    "URL": "https://bugguide.net/node/view/421627",
+    "Common Name": "Paraleptophlebia vaciva"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "skokianus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 425173,
+    "URL": "https://bugguide.net/node/view/425173",
+    "Common Name": "Callibaetis skokianus"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "alternatus",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 438898,
+    "URL": "https://bugguide.net/node/view/438898",
+    "Common Name": "Siphlonurus alternatus"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "californicus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 439107,
+    "URL": "https://bugguide.net/node/view/439107",
+    "Common Name": "Callibaetis californicus"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "occidentalis",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 441834,
+    "URL": "https://bugguide.net/node/view/441834",
+    "Common Name": "Siphlonurus occidentalis"
+  },
+  {
+    "Genus": "Heptagenia",
+    "Species": "elegantula",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 444572,
+    "URL": "https://bugguide.net/node/view/444572",
+    "Common Name": "Heptagenia elegantula"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "debilis",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 458009,
+    "URL": "https://bugguide.net/node/view/458009",
+    "Common Name": "Paraleptophlebia debilis"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "arida",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 502249,
+    "URL": "https://bugguide.net/node/view/502249",
+    "Common Name": "Isonychia arida"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "coloradensis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 503116,
+    "URL": "https://bugguide.net/node/view/503116",
+    "Common Name": "Drunella coloradensis"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "longimanus",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 503131,
+    "URL": "https://bugguide.net/node/view/503131",
+    "Common Name": "Epeorus longimanus"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "albertae",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 506976,
+    "URL": "https://bugguide.net/node/view/506976",
+    "Common Name": "Epeorus albertae"
+  },
+  {
+    "Genus": "Diphetor",
+    "Species": "hageni",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 508241,
+    "URL": "https://bugguide.net/node/view/508241",
+    "Common Name": "Diphetor hageni"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "excrucians",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 509445,
+    "URL": "https://bugguide.net/node/view/509445",
+    "Common Name": "Ephemerella excrucians"
+  },
+  {
+    "Genus": "Pentagenia",
+    "Species": "vittigera",
+    "Family": "Palingeniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 526927,
+    "URL": "https://bugguide.net/node/view/526927",
+    "Common Name": "Pentagenia vittigera"
+  },
+  {
+    "Genus": "Teloganopsis",
+    "Species": "deficiens",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 544249,
+    "URL": "https://bugguide.net/node/view/544249",
+    "Common Name": "Teloganopsis deficiens"
+  },
+  {
+    "Genus": "Litobrancha",
+    "Species": "recurvata",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 544777,
+    "URL": "https://bugguide.net/node/view/544777",
+    "Common Name": "Litobrancha recurvata"
+  },
+  {
+    "Genus": "Anthopotamus",
+    "Species": "myops",
+    "Family": "Potamanthidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 550732,
+    "URL": "https://bugguide.net/node/view/550732",
+    "Common Name": "Anthopotamus myops"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "praepedita",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 552632,
+    "URL": "https://bugguide.net/node/view/552632",
+    "Common Name": "Paraleptophlebia praepedita"
+  },
+  {
+    "Genus": "Ephemera",
+    "Species": "guttulata",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 558173,
+    "URL": "https://bugguide.net/node/view/558173",
+    "Common Name": "Green Drake"
+  },
+  {
+    "Genus": "Acentrella",
+    "Species": "nadineae",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 558569,
+    "URL": "https://bugguide.net/node/view/558569",
+    "Common Name": "Acentrella nadineae"
+  },
+  {
+    "Genus": "Heptagenia",
+    "Species": "solitaria",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 593079,
+    "URL": "https://bugguide.net/node/view/593079",
+    "Common Name": "Heptagenia solitaria"
+  },
+  {
+    "Genus": "Heterocloeon",
+    "Species": "amplum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619301,
+    "URL": "https://bugguide.net/node/view/619301",
+    "Common Name": "Heterocloeon amplum"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "meririvulanum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619303,
+    "URL": "https://bugguide.net/node/view/619303",
+    "Common Name": "Maccaffertium meririvulanum"
+  },
+  {
+    "Genus": "Heterocloeon",
+    "Species": "curiosum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619304,
+    "URL": "https://bugguide.net/node/view/619304",
+    "Common Name": "Heterocloeon curiosum"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "pluto",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619306,
+    "URL": "https://bugguide.net/node/view/619306",
+    "Common Name": "Baetis pluto"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "ithaca",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619307,
+    "URL": "https://bugguide.net/node/view/619307",
+    "Common Name": "Maccaffertium ithaca"
+  },
+  {
+    "Genus": "Heptagenia",
+    "Species": "marginalis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619308,
+    "URL": "https://bugguide.net/node/view/619308",
+    "Common Name": "Heptagenia marginalis"
+  },
+  {
+    "Genus": "Serratella",
+    "Species": "serratoides",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619309,
+    "URL": "https://bugguide.net/node/view/619309",
+    "Common Name": "Serratella serratoides"
+  },
+  {
+    "Genus": "Habrophlebia",
+    "Species": "vibrans",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619316,
+    "URL": "https://bugguide.net/node/view/619316",
+    "Common Name": "Habrophlebia vibrans"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "walkeri",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 619319,
+    "URL": "https://bugguide.net/node/view/619319",
+    "Common Name": "Drunella walkeri"
+  },
+  {
+    "Genus": "Cinygmula",
+    "Species": "subaequalis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 624052,
+    "URL": "https://bugguide.net/node/view/624052",
+    "Common Name": "Cinygmula subaequalis"
+  },
+  {
+    "Genus": "Plauditus",
+    "Species": "dubius",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 628541,
+    "URL": "https://bugguide.net/node/view/628541",
+    "Common Name": "Plauditus dubius"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "tuberculata",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 632833,
+    "URL": "https://bugguide.net/node/view/632833",
+    "Common Name": "Drunella tuberculata"
+  },
+  {
+    "Genus": "Camelobaetidius",
+    "Species": "warreni",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 635855,
+    "URL": "https://bugguide.net/node/view/635855",
+    "Common Name": "Camelobaetidius warreni"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "tusculanensis",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 647605,
+    "URL": "https://bugguide.net/node/view/647605",
+    "Common Name": "Isonychia tusculanensis"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "validus",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 694423,
+    "URL": "https://bugguide.net/node/view/694423",
+    "Common Name": "Ameletus validus"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "tibialis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 696565,
+    "URL": "https://bugguide.net/node/view/696565",
+    "Common Name": "Ephemerella tibialis"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "deceptivus",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 698819,
+    "URL": "https://bugguide.net/node/view/698819",
+    "Common Name": "Epeorus deceptivus"
+  },
+  {
+    "Genus": "Heterocloeon",
+    "Species": "petersi",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 705273,
+    "URL": "https://bugguide.net/node/view/705273",
+    "Common Name": "Heterocloeon petersi"
+  },
+  {
+    "Genus": "Drunella",
+    "Species": "spinifera",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 713834,
+    "URL": "https://bugguide.net/node/view/713834",
+    "Common Name": "Drunella spinifera"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "bicornuta",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 796598,
+    "URL": "https://bugguide.net/node/view/796598",
+    "Common Name": "Paraleptophlebia bicornuta"
+  },
+  {
+    "Genus": "Procloeon",
+    "Species": "nelsoni",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 797473,
+    "URL": "https://bugguide.net/node/view/797473",
+    "Common Name": "Procloeon nelsoni"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "bicaudatus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 797585,
+    "URL": "https://bugguide.net/node/view/797585",
+    "Common Name": "Baetis bicaudatus"
+  },
+  {
+    "Genus": "Labiobaetis",
+    "Species": "propinquus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 820241,
+    "URL": "https://bugguide.net/node/view/820241",
+    "Common Name": "Labiobaetis propinquus"
+  },
+  {
+    "Genus": "Attenella",
+    "Species": "margarita",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 847027,
+    "URL": "https://bugguide.net/node/view/847027",
+    "Common Name": "Attenella margarita"
+  },
+  {
+    "Genus": "Acentrella",
+    "Species": "insignificans",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 876160,
+    "URL": "https://bugguide.net/node/view/876160",
+    "Common Name": "Acentrella insignificans"
+  },
+  {
+    "Genus": "Serratella",
+    "Species": "micheneri",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 876178,
+    "URL": "https://bugguide.net/node/view/876178",
+    "Common Name": "Serratella micheneri"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "helena",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 876209,
+    "URL": "https://bugguide.net/node/view/876209",
+    "Common Name": "Paraleptophlebia helena"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "alius",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 876662,
+    "URL": "https://bugguide.net/node/view/876662",
+    "Common Name": "Baetis alius"
+  },
+  {
+    "Genus": "Serratella",
+    "Species": "levis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 877271,
+    "URL": "https://bugguide.net/node/view/877271",
+    "Common Name": "Serratella levis"
+  },
+  {
+    "Genus": "Ephemerella",
+    "Species": "maculata",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 877444,
+    "URL": "https://bugguide.net/node/view/877444",
+    "Common Name": "Ephemerella maculata"
+  },
+  {
+    "Genus": "Ecdyonurus",
+    "Species": "criddlei",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 877543,
+    "URL": "https://bugguide.net/node/view/877543",
+    "Common Name": "Little Slate-Winged Dun"
+  },
+  {
+    "Genus": "Fallceon",
+    "Species": "quilleri",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 877795,
+    "URL": "https://bugguide.net/node/view/877795",
+    "Common Name": "Fallceon quilleri"
+  },
+  {
+    "Genus": "Baetisca",
+    "Species": "lacustris",
+    "Family": "Baetiscidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 889106,
+    "URL": "https://bugguide.net/node/view/889106",
+    "Common Name": "Baetisca lacustris"
+  },
+  {
+    "Genus": "Acerpenna",
+    "Species": "pygmaea",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 895188,
+    "URL": "https://bugguide.net/node/view/895188",
+    "Common Name": "Acerpenna pygmaea"
+  },
+  {
+    "Genus": "Pseudiron",
+    "Species": "centralis",
+    "Family": "Pseudironidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 897153,
+    "URL": "https://bugguide.net/node/view/897153",
+    "Common Name": "Pseudiron centralis"
+  },
+  {
+    "Genus": "Ametropus",
+    "Species": "ammophilus",
+    "Family": "Ametropodidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 897174,
+    "URL": "https://bugguide.net/node/view/897174",
+    "Common Name": "Ametropus ammophilus"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "maculipennis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 931194,
+    "URL": "https://bugguide.net/node/view/931194",
+    "Common Name": "Leucrocuta maculipennis"
+  },
+  {
+    "Genus": "Nixe",
+    "Species": "inconspicua",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 941195,
+    "URL": "https://bugguide.net/node/view/941195",
+    "Common Name": "Nixe inconspicua"
+  },
+  {
+    "Genus": "Hexagenia",
+    "Species": "rigida",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 944638,
+    "URL": "https://bugguide.net/node/view/944638",
+    "Common Name": "Hexagenia rigida"
+  },
+  {
+    "Genus": "Anafroptilum",
+    "Species": "bifurcatum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 957672,
+    "URL": "https://bugguide.net/node/view/957672",
+    "Common Name": "Anafroptilum bifurcatum"
+  },
+  {
+    "Genus": "Anafroptilum",
+    "Species": "conturbatum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 957673,
+    "URL": "https://bugguide.net/node/view/957673",
+    "Common Name": "Anafroptilum conturbatum"
+  },
+  {
+    "Genus": "Anafroptilum",
+    "Species": "minor",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 957675,
+    "URL": "https://bugguide.net/node/view/957675",
+    "Common Name": "Anafroptilum minor"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "carolina",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1026645,
+    "URL": "https://bugguide.net/node/view/1026645",
+    "Common Name": "Stenacron carolina"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "permagnus",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1027486,
+    "URL": "https://bugguide.net/node/view/1027486",
+    "Common Name": "Epeorus permagnus"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "exiguum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1033146,
+    "URL": "https://bugguide.net/node/view/1033146",
+    "Common Name": "Maccaffertium exiguum"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "candidum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1033334,
+    "URL": "https://bugguide.net/node/view/1033334",
+    "Common Name": "Stenacron candidum"
+  },
+  {
+    "Genus": "Caenis",
+    "Species": "latipennis",
+    "Family": "Caenidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1038165,
+    "URL": "https://bugguide.net/node/view/1038165",
+    "Common Name": "Caenis latipennis"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "notos",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1053467,
+    "URL": "https://bugguide.net/node/view/1053467",
+    "Common Name": "Baetis notos"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "smithae",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1056918,
+    "URL": "https://bugguide.net/node/view/1056918",
+    "Common Name": "Maccaffertium smithae"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "montanus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1057861,
+    "URL": "https://bugguide.net/node/view/1057861",
+    "Common Name": "Callibaetis montanus"
+  },
+  {
+    "Genus": "Attenella",
+    "Species": "delantala",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1058744,
+    "URL": "https://bugguide.net/node/view/1058744",
+    "Common Name": "Attenella delantala"
+  },
+  {
+    "Genus": "Baetis",
+    "Species": "brunneicolor",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1071284,
+    "URL": "https://bugguide.net/node/view/1071284",
+    "Common Name": "Baetis brunneicolor"
+  },
+  {
+    "Genus": "Epeorus",
+    "Species": "dispar",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1075276,
+    "URL": "https://bugguide.net/node/view/1075276",
+    "Common Name": "Epeorus dispar"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "thetis",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1076245,
+    "URL": "https://bugguide.net/node/view/1076245",
+    "Common Name": "Leucrocuta thetis"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "juno",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1076470,
+    "URL": "https://bugguide.net/node/view/1076470",
+    "Common Name": "Leucrocuta juno"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "aphrodite",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1076473,
+    "URL": "https://bugguide.net/node/view/1076473",
+    "Common Name": "Leucrocuta aphrodite"
+  },
+  {
+    "Genus": "Procloeon",
+    "Species": "rufostrigatum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1085271,
+    "URL": "https://bugguide.net/node/view/1085271",
+    "Common Name": "Procloeon rufostrigatum"
+  },
+  {
+    "Genus": "Ephemera",
+    "Species": "blanda",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1110890,
+    "URL": "https://bugguide.net/node/view/1110890",
+    "Common Name": "Ephemera blanda"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "petersi",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1118956,
+    "URL": "https://bugguide.net/node/view/1118956",
+    "Common Name": "Leucrocuta petersi"
+  },
+  {
+    "Genus": "Homoeoneuria",
+    "Species": "ammophila",
+    "Family": "Oligoneuriidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1137397,
+    "URL": "https://bugguide.net/node/view/1137397",
+    "Common Name": "Homoeoneuria ammophila"
+  },
+  {
+    "Genus": "Paracloeodes",
+    "Species": "minutus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1141659,
+    "URL": "https://bugguide.net/node/view/1141659",
+    "Common Name": "Paracloeodes minutus"
+  },
+  {
+    "Genus": "Plauditus",
+    "Species": "punctiventris",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1204184,
+    "URL": "https://bugguide.net/node/view/1204184",
+    "Common Name": "Plauditus punctiventris"
+  },
+  {
+    "Genus": "Ameletus",
+    "Species": "subnotatus",
+    "Family": "Ameletidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1209124,
+    "URL": "https://bugguide.net/node/view/1209124",
+    "Common Name": "Ameletus subnotatus"
+  },
+  {
+    "Genus": "Callibaetis",
+    "Species": "pallidus",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1240285,
+    "URL": "https://bugguide.net/node/view/1240285",
+    "Common Name": "Callibaetis pallidus"
+  },
+  {
+    "Genus": "Hexagenia",
+    "Species": "orlando",
+    "Family": "Ephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1301605,
+    "URL": "https://bugguide.net/node/view/1301605",
+    "Common Name": "Hexagenia orlando"
+  },
+  {
+    "Genus": "Leucrocuta",
+    "Species": "walshi",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1320952,
+    "URL": "https://bugguide.net/node/view/1320952",
+    "Common Name": "Leucrocuta walshi"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "mediopunctatum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1328830,
+    "URL": "https://bugguide.net/node/view/1328830",
+    "Common Name": "Maccaffertium mediopunctatum"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "gildersleevei",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1330228,
+    "URL": "https://bugguide.net/node/view/1330228",
+    "Common Name": "Stenacron gildersleevei"
+  },
+  {
+    "Genus": "Tortopsis",
+    "Species": "primus",
+    "Family": "Polymitarcyidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1330469,
+    "URL": "https://bugguide.net/node/view/1330469",
+    "Common Name": "Tortopsis primus"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "pallidum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1331162,
+    "URL": "https://bugguide.net/node/view/1331162",
+    "Common Name": "Stenacron pallidum"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "floridense",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1347795,
+    "URL": "https://bugguide.net/node/view/1347795",
+    "Common Name": "Stenacron floridense"
+  },
+  {
+    "Genus": "Stenacron",
+    "Species": "minnetonka",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1349067,
+    "URL": "https://bugguide.net/node/view/1349067",
+    "Common Name": "Stenacron minnetonka"
+  },
+  {
+    "Genus": "Leptophlebia",
+    "Species": "johnsoni",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1354902,
+    "URL": "https://bugguide.net/node/view/1354902",
+    "Common Name": "Leptophlebia johnsoni"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "pulchellum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1355265,
+    "URL": "https://bugguide.net/node/view/1355265",
+    "Common Name": "Maccaffertium pulchellum"
+  },
+  {
+    "Genus": "Penelomax",
+    "Species": "septentrionalis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1355573,
+    "URL": "https://bugguide.net/node/view/1355573",
+    "Common Name": "Penelomax septentrionalis"
+  },
+  {
+    "Genus": "Maccaffertium",
+    "Species": "mexicanum",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1361484,
+    "URL": "https://bugguide.net/node/view/1361484",
+    "Common Name": "Maccaffertium mexicanum"
+  },
+  {
+    "Genus": "Siphlonurus",
+    "Species": "phyllis",
+    "Family": "Siphlonuridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1374658,
+    "URL": "https://bugguide.net/node/view/1374658",
+    "Common Name": "Siphlonurus phyllis"
+  },
+  {
+    "Genus": "Isonychia",
+    "Species": "georgiae",
+    "Family": "Isonychiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1387670,
+    "URL": "https://bugguide.net/node/view/1387670",
+    "Common Name": "Isonychia georgiae"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "strigula",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1390500,
+    "URL": "https://bugguide.net/node/view/1390500",
+    "Common Name": "Paraleptophlebia strigula"
+  },
+  {
+    "Genus": "Paraleptophlebia",
+    "Species": "guttata",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1391645,
+    "URL": "https://bugguide.net/node/view/1391645",
+    "Common Name": "Paraleptophlebia guttata"
+  },
+  {
+    "Genus": "Baetisca",
+    "Species": "berneri",
+    "Family": "Baetiscidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1438386,
+    "URL": "https://bugguide.net/node/view/1438386",
+    "Common Name": "Baetisca berneri"
+  },
+  {
+    "Genus": "Neoleptophlebia",
+    "Species": "assimilis",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1438426,
+    "URL": "https://bugguide.net/node/view/1438426",
+    "Common Name": "Neoleptophlebia assimilis"
+  },
+  {
+    "Genus": "Anafroptilum",
+    "Species": "asperatum",
+    "Family": "Baetidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1453372,
+    "URL": "https://bugguide.net/node/view/1453372",
+    "Common Name": "Anafroptilum asperatum"
+  },
+  {
+    "Genus": "Neoephemera",
+    "Species": "purpurea",
+    "Family": "Neoephemeridae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1468765,
+    "URL": "https://bugguide.net/node/view/1468765",
+    "Common Name": "Neoephemera purpurea"
+  },
+  {
+    "Genus": "Traverella",
+    "Species": "albertana",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1468782,
+    "URL": "https://bugguide.net/node/view/1468782",
+    "Common Name": "Traverella albertana"
+  },
+  {
+    "Genus": "Raptoheptagenia",
+    "Species": "cruentata",
+    "Family": "Heptageniidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1468801,
+    "URL": "https://bugguide.net/node/view/1468801",
+    "Common Name": "Raptoheptagenia cruentata"
+  },
+  {
+    "Genus": "Analetris",
+    "Species": "eximia",
+    "Family": "Acanthametropodidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1469511,
+    "URL": "https://bugguide.net/node/view/1469511",
+    "Common Name": "Analetris eximia"
+  },
+  {
+    "Genus": "Dolania",
+    "Species": "americana",
+    "Family": "Behningiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1469513,
+    "URL": "https://bugguide.net/node/view/1469513",
+    "Common Name": "Dolania americana"
+  },
+  {
+    "Genus": "Attenella",
+    "Species": "soquele",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1485447,
+    "URL": "https://bugguide.net/node/view/1485447",
+    "Common Name": "Attenella soquele"
+  },
+  {
+    "Genus": "Matriella",
+    "Species": "teresa",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1485563,
+    "URL": "https://bugguide.net/node/view/1485563",
+    "Common Name": "Matriella teresa"
+  },
+  {
+    "Genus": "Thraulodes",
+    "Species": "speciosus",
+    "Family": "Leptophlebiidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1488035,
+    "URL": "https://bugguide.net/node/view/1488035",
+    "Common Name": "Thraulodes speciosus"
+  },
+  {
+    "Genus": "Eurylophella",
+    "Species": "funeralis",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1525131,
+    "URL": "https://bugguide.net/node/view/1525131",
+    "Common Name": "Eurylophella funeralis"
+  },
+  {
+    "Genus": "Attenella",
+    "Species": "attenuata",
+    "Family": "Ephemerellidae",
+    "Order": "Ephemeroptera",
+    "BugGuideID": 1527429,
+    "URL": "https://bugguide.net/node/view/1527429",
+    "Common Name": "Attenella attenuata"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Genus": "Agulla",
+    "Species": "bicolor",
+    "Family": "Raphidiidae",
+    "Order": "Raphidioptera",
+    "BugGuideID": 645093,
+    "URL": "https://bugguide.net/node/view/645093",
+    "Common Name": "Agulla bicolor"
+  },
+  {
+    "Genus": "Negha",
+    "Species": "meridionalis",
+    "Family": "Inocelliidae",
+    "Order": "Raphidioptera",
+    "BugGuideID": 855158,
+    "URL": "https://bugguide.net/node/view/855158",
+    "Common Name": "Negha meridionalis"
+  }
+]

@@ -1,0 +1,893 @@
+[
+  {
+    "Genus": "Ululodes",
+    "Species": "quadripunctatus",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 4131,
+    "URL": "https://bugguide.net/node/view/4131",
+    "Common Name": "Four-spotted Owlfly"
+  },
+  {
+    "Genus": "Ascaloptynx",
+    "Species": "appendiculata",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 4136,
+    "URL": "https://bugguide.net/node/view/4136",
+    "Common Name": "Ascaloptynx appendiculata"
+  },
+  {
+    "Genus": "Climaciella",
+    "Species": "brunnea",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 4825,
+    "URL": "https://bugguide.net/node/view/4825",
+    "Common Name": "Wasp Mantidfly"
+  },
+  {
+    "Genus": "Glenurus",
+    "Species": "gratus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 26625,
+    "URL": "https://bugguide.net/node/view/26625",
+    "Common Name": "Glenurus gratus"
+  },
+  {
+    "Genus": "Dendroleon",
+    "Species": "obsoletus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 40003,
+    "URL": "https://bugguide.net/node/view/40003",
+    "Common Name": "Spotted-winged Antlion"
+  },
+  {
+    "Genus": "Zeugomantispa",
+    "Species": "minuta",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 40288,
+    "URL": "https://bugguide.net/node/view/40288",
+    "Common Name": "Green Mantisfly"
+  },
+  {
+    "Genus": "Nallachius",
+    "Species": "americanus",
+    "Family": "Dilaridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 64860,
+    "URL": "https://bugguide.net/node/view/64860",
+    "Common Name": "Nallachius americanus"
+  },
+  {
+    "Genus": "Abachrysa",
+    "Species": "eureka",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 70908,
+    "URL": "https://bugguide.net/node/view/70908",
+    "Common Name": "Abachrysa eureka"
+  },
+  {
+    "Genus": "Hemerobius",
+    "Species": "stigma",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71430,
+    "URL": "https://bugguide.net/node/view/71430",
+    "Common Name": "Hemerobius stigma"
+  },
+  {
+    "Genus": "Micromus",
+    "Species": "posticus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71433,
+    "URL": "https://bugguide.net/node/view/71433",
+    "Common Name": "Micromus posticus"
+  },
+  {
+    "Genus": "Micromus",
+    "Species": "subanticus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71436,
+    "URL": "https://bugguide.net/node/view/71436",
+    "Common Name": "Micromus subanticus"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "nebulosus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71470,
+    "URL": "https://bugguide.net/node/view/71470",
+    "Common Name": "Brachynemurus nebulosus"
+  },
+  {
+    "Genus": "Paranthaclisis",
+    "Species": "congener",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71476,
+    "URL": "https://bugguide.net/node/view/71476",
+    "Common Name": "Paranthaclisis congener"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "abdominalis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71489,
+    "URL": "https://bugguide.net/node/view/71489",
+    "Common Name": "Brachynemurus abdominalis"
+  },
+  {
+    "Genus": "Euptilon",
+    "Species": "sinuatum",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71492,
+    "URL": "https://bugguide.net/node/view/71492",
+    "Common Name": "Euptilon sinuatum"
+  },
+  {
+    "Genus": "Vella",
+    "Species": "fallax",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71494,
+    "URL": "https://bugguide.net/node/view/71494",
+    "Common Name": "Vella fallax"
+  },
+  {
+    "Genus": "Scotoleon",
+    "Species": "longipalpis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71496,
+    "URL": "https://bugguide.net/node/view/71496",
+    "Common Name": "Scotoleon longipalpis"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "longicaudus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71497,
+    "URL": "https://bugguide.net/node/view/71497",
+    "Common Name": "Brachynemurus longicaudus"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "sackeni",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71500,
+    "URL": "https://bugguide.net/node/view/71500",
+    "Common Name": "Brachynemurus sackeni"
+  },
+  {
+    "Genus": "Myrmeleon",
+    "Species": "immaculatus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71501,
+    "URL": "https://bugguide.net/node/view/71501",
+    "Common Name": "Myrmeleon immaculatus"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "macleayanus",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71533,
+    "URL": "https://bugguide.net/node/view/71533",
+    "Common Name": "Ululodes macleayanus"
+  },
+  {
+    "Genus": "Leptomantispa",
+    "Species": "pulchella",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71734,
+    "URL": "https://bugguide.net/node/view/71734",
+    "Common Name": "Leptomantispa pulchella"
+  },
+  {
+    "Genus": "Dicromantispa",
+    "Species": "interrupta",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71735,
+    "URL": "https://bugguide.net/node/view/71735",
+    "Common Name": "Dicromantispa interrupta"
+  },
+  {
+    "Genus": "Dicromantispa",
+    "Species": "sayi",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 71736,
+    "URL": "https://bugguide.net/node/view/71736",
+    "Common Name": "Dicromantispa sayi"
+  },
+  {
+    "Genus": "Hemerobius",
+    "Species": "humulinus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 106927,
+    "URL": "https://bugguide.net/node/view/106927",
+    "Common Name": "Hemerobius humulinus"
+  },
+  {
+    "Genus": "Leucochrysa",
+    "Species": "insularis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 116368,
+    "URL": "https://bugguide.net/node/view/116368",
+    "Common Name": "Leucochrysa insularis"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "chi",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 127278,
+    "URL": "https://bugguide.net/node/view/127278",
+    "Common Name": "Chrysopa chi"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "coloradensis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 127280,
+    "URL": "https://bugguide.net/node/view/127280",
+    "Common Name": "Chrysopa coloradensis"
+  },
+  {
+    "Genus": "Platystoechotes",
+    "Species": "lineatus",
+    "Family": "Polystoechotidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 161798,
+    "URL": "https://bugguide.net/node/view/161798",
+    "Common Name": "Platystoechotes lineatus"
+  },
+  {
+    "Genus": "Polystoechotes",
+    "Species": "punctata",
+    "Family": "Polystoechotidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 161800,
+    "URL": "https://bugguide.net/node/view/161800",
+    "Common Name": "Polystoechotes punctata"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "oculata",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 180505,
+    "URL": "https://bugguide.net/node/view/180505",
+    "Common Name": "Golden-eyed Lacewing"
+  },
+  {
+    "Genus": "Vella",
+    "Species": "americana",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 182312,
+    "URL": "https://bugguide.net/node/view/182312",
+    "Common Name": "Vella americana"
+  },
+  {
+    "Genus": "Nothochrysa",
+    "Species": "californica",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 182353,
+    "URL": "https://bugguide.net/node/view/182353",
+    "Common Name": "San Francisco Lacewing"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "occidentalis",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 183617,
+    "URL": "https://bugguide.net/node/view/183617",
+    "Common Name": "Sympherobius occidentalis"
+  },
+  {
+    "Genus": "Euptilon",
+    "Species": "ornatum",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 187089,
+    "URL": "https://bugguide.net/node/view/187089",
+    "Common Name": "Euptilon ornatum"
+  },
+  {
+    "Genus": "Micromus",
+    "Species": "variegatus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 228308,
+    "URL": "https://bugguide.net/node/view/228308",
+    "Common Name": "Micromus variegatus"
+  },
+  {
+    "Genus": "Megalomus",
+    "Species": "fidelis",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 228340,
+    "URL": "https://bugguide.net/node/view/228340",
+    "Common Name": "Megalomus fidelis"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "barberi",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 228388,
+    "URL": "https://bugguide.net/node/view/228388",
+    "Common Name": "Barber's Brown Lacewing"
+  },
+  {
+    "Genus": "Micromus",
+    "Species": "variolosus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 228390,
+    "URL": "https://bugguide.net/node/view/228390",
+    "Common Name": "Micromus variolosus"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "arizonensis",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 228394,
+    "URL": "https://bugguide.net/node/view/228394",
+    "Common Name": "Ululodes arizonensis"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "quadripunctata",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245309,
+    "URL": "https://bugguide.net/node/view/245309",
+    "Common Name": "Chrysopa quadripunctata"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "incompleta",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245312,
+    "URL": "https://bugguide.net/node/view/245312",
+    "Common Name": "Chrysopa incompleta"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "punctinervis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245314,
+    "URL": "https://bugguide.net/node/view/245314",
+    "Common Name": "Eremochrysa punctinervis"
+  },
+  {
+    "Genus": "Chrysopa",
+    "Species": "nigricornis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245325,
+    "URL": "https://bugguide.net/node/view/245325",
+    "Common Name": "Chrysopa nigricornis"
+  },
+  {
+    "Genus": "Chrysoperla",
+    "Species": "rufilabris",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245329,
+    "URL": "https://bugguide.net/node/view/245329",
+    "Common Name": "Chrysoperla rufilabris"
+  },
+  {
+    "Genus": "Yumachrysa",
+    "Species": "apache",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245339,
+    "URL": "https://bugguide.net/node/view/245339",
+    "Common Name": "Yumachrysa apache"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "umbratus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 245385,
+    "URL": "https://bugguide.net/node/view/245385",
+    "Common Name": "Sympherobius umbratus"
+  },
+  {
+    "Genus": "Menkeleon",
+    "Species": "bellulus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265423,
+    "URL": "https://bugguide.net/node/view/265423",
+    "Common Name": "Menkeleon bellulus"
+  },
+  {
+    "Genus": "Megalomus",
+    "Species": "carpenteri",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265424,
+    "URL": "https://bugguide.net/node/view/265424",
+    "Common Name": "Megalomus carpenteri"
+  },
+  {
+    "Genus": "Megalomus",
+    "Species": "moestus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265431,
+    "URL": "https://bugguide.net/node/view/265431",
+    "Common Name": "Megalomus moestus"
+  },
+  {
+    "Genus": "Pseudomallada",
+    "Species": "sierra",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265439,
+    "URL": "https://bugguide.net/node/view/265439",
+    "Common Name": "Pseudomallada sierra"
+  },
+  {
+    "Genus": "Leucochrysa",
+    "Species": "pavida",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265445,
+    "URL": "https://bugguide.net/node/view/265445",
+    "Common Name": "Nodita pavida"
+  },
+  {
+    "Genus": "Myrmeleon",
+    "Species": "exitialis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265452,
+    "URL": "https://bugguide.net/node/view/265452",
+    "Common Name": "Myrmeleon exitialis"
+  },
+  {
+    "Genus": "Scotoleon",
+    "Species": "nigrilabris",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265459,
+    "URL": "https://bugguide.net/node/view/265459",
+    "Common Name": "Scotoleon nigrilabris"
+  },
+  {
+    "Genus": "Clathroneuria",
+    "Species": "coquilletti",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265461,
+    "URL": "https://bugguide.net/node/view/265461",
+    "Common Name": "Clathroneuria coquilletti"
+  },
+  {
+    "Genus": "Dendroleon",
+    "Species": "speciosus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265463,
+    "URL": "https://bugguide.net/node/view/265463",
+    "Common Name": "Dendroleon speciosus"
+  },
+  {
+    "Genus": "Glenurus",
+    "Species": "luniger",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265464,
+    "URL": "https://bugguide.net/node/view/265464",
+    "Common Name": "Glenurus luniger"
+  },
+  {
+    "Genus": "Scotoleon",
+    "Species": "dissimilis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 265468,
+    "URL": "https://bugguide.net/node/view/265468",
+    "Common Name": "Scotoleon dissimilis"
+  },
+  {
+    "Genus": "Lomamyia",
+    "Species": "squamosa",
+    "Family": "Berothidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 294707,
+    "URL": "https://bugguide.net/node/view/294707",
+    "Common Name": "Lomamyia squamosa"
+  },
+  {
+    "Genus": "Climacia",
+    "Species": "areolaris",
+    "Family": "Sisyridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 296443,
+    "URL": "https://bugguide.net/node/view/296443",
+    "Common Name": "Climacia areolaris"
+  },
+  {
+    "Genus": "Oliarces",
+    "Species": "clara",
+    "Family": "Ithonidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 305062,
+    "URL": "https://bugguide.net/node/view/305062",
+    "Common Name": "Cheese-weed Moth Lacewing"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "canadensis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 317868,
+    "URL": "https://bugguide.net/node/view/317868",
+    "Common Name": "Eremochrysa canadensis"
+  },
+  {
+    "Genus": "Psectra",
+    "Species": "diptera",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 324575,
+    "URL": "https://bugguide.net/node/view/324575",
+    "Common Name": "Psectra diptera"
+  },
+  {
+    "Genus": "Ceraeochrysa",
+    "Species": "lineaticornis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 341460,
+    "URL": "https://bugguide.net/node/view/341460",
+    "Common Name": "Ceraeochrysa lineaticornis"
+  },
+  {
+    "Genus": "Xeromantispa",
+    "Species": "scabrosa",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 356029,
+    "URL": "https://bugguide.net/node/view/356029",
+    "Common Name": "Xeromantispa scabrosa"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "amiculus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399016,
+    "URL": "https://bugguide.net/node/view/399016",
+    "Common Name": "Sympherobius amiculus"
+  },
+  {
+    "Genus": "Micromus",
+    "Species": "angulatus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399017,
+    "URL": "https://bugguide.net/node/view/399017",
+    "Common Name": "Micromus angulatus"
+  },
+  {
+    "Genus": "Hemerobius",
+    "Species": "bistrigatus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399019,
+    "URL": "https://bugguide.net/node/view/399019",
+    "Common Name": "Hemerobius bistrigatus"
+  },
+  {
+    "Genus": "Myrmeleon",
+    "Species": "mobilis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399360,
+    "URL": "https://bugguide.net/node/view/399360",
+    "Common Name": "Myrmeleon mobilis"
+  },
+  {
+    "Genus": "Peruveleon",
+    "Species": "dorsalis",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399364,
+    "URL": "https://bugguide.net/node/view/399364",
+    "Common Name": "Peruveleon dorsalis"
+  },
+  {
+    "Genus": "Mexoleon",
+    "Species": "papago",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399377,
+    "URL": "https://bugguide.net/node/view/399377",
+    "Common Name": "Mexoleon papago"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "hubbardii",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399442,
+    "URL": "https://bugguide.net/node/view/399442",
+    "Common Name": "Brachynemurus hubbardii"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "signatus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399643,
+    "URL": "https://bugguide.net/node/view/399643",
+    "Common Name": "Brachynemurus signatus"
+  },
+  {
+    "Genus": "Chaetoleon",
+    "Species": "pusillus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 399652,
+    "URL": "https://bugguide.net/node/view/399652",
+    "Common Name": "Chaetoleon pusillus"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "floridanus",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 476967,
+    "URL": "https://bugguide.net/node/view/476967",
+    "Common Name": "Ululodes floridanus"
+  },
+  {
+    "Genus": "Sisyra",
+    "Species": "vicaria",
+    "Family": "Sisyridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 620749,
+    "URL": "https://bugguide.net/node/view/620749",
+    "Common Name": "Sisyra vicaria"
+  },
+  {
+    "Genus": "Clathroneuria",
+    "Species": "schwarzi",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 638710,
+    "URL": "https://bugguide.net/node/view/638710",
+    "Common Name": "Clathroneuria schwarzi"
+  },
+  {
+    "Genus": "Scotoleon",
+    "Species": "carrizonus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 639209,
+    "URL": "https://bugguide.net/node/view/639209",
+    "Common Name": "Scotoleon carrizonus"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "mexicanus",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 705294,
+    "URL": "https://bugguide.net/node/view/705294",
+    "Common Name": "Ululodes mexicanus"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "bicolor",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 705590,
+    "URL": "https://bugguide.net/node/view/705590",
+    "Common Name": "Ululodes bicolor"
+  },
+  {
+    "Genus": "Ululodes",
+    "Species": "nigripes",
+    "Family": "Ascalaphidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 705596,
+    "URL": "https://bugguide.net/node/view/705596",
+    "Common Name": "Ululodes nigripes"
+  },
+  {
+    "Genus": "Myrmeleon",
+    "Species": "mexicanus",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 749447,
+    "URL": "https://bugguide.net/node/view/749447",
+    "Common Name": "Myrmeleon mexicanus"
+  },
+  {
+    "Genus": "Climacia",
+    "Species": "californica",
+    "Family": "Sisyridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 824412,
+    "URL": "https://bugguide.net/node/view/824412",
+    "Common Name": "Climacia californica"
+  },
+  {
+    "Genus": "Nallachius",
+    "Species": "pulchellus",
+    "Family": "Dilaridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 837181,
+    "URL": "https://bugguide.net/node/view/837181",
+    "Common Name": "Nallachius pulchellus"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "californicus",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 888538,
+    "URL": "https://bugguide.net/node/view/888538",
+    "Common Name": "Sympherobius californicus"
+  },
+  {
+    "Genus": "Ceraeochrysa",
+    "Species": "smithi",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 980893,
+    "URL": "https://bugguide.net/node/view/980893",
+    "Common Name": "Ceraeochrysa smithi"
+  },
+  {
+    "Genus": "Lomamyia",
+    "Species": "longicollis",
+    "Family": "Berothidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1086525,
+    "URL": "https://bugguide.net/node/view/1086525",
+    "Common Name": "Lomamyia longicollis"
+  },
+  {
+    "Genus": "Lomamyia",
+    "Species": "flavicornis",
+    "Family": "Berothidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1324390,
+    "URL": "https://bugguide.net/node/view/1324390",
+    "Common Name": "Lomamyia flavicornis"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "pallida",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342043,
+    "URL": "https://bugguide.net/node/view/1342043",
+    "Common Name": "Eremochrysa pallida"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "fraterna",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342083,
+    "URL": "https://bugguide.net/node/view/1342083",
+    "Common Name": "Eremochrysa fraterna"
+  },
+  {
+    "Genus": "Sympherobius",
+    "Species": "killingtoni",
+    "Family": "Hemerobiidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342498,
+    "URL": "https://bugguide.net/node/view/1342498",
+    "Common Name": "Sympherobius killingtoni"
+  },
+  {
+    "Genus": "Sisyra",
+    "Species": "apicalis",
+    "Family": "Sisyridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342570,
+    "URL": "https://bugguide.net/node/view/1342570",
+    "Common Name": "Sisyra apicalis"
+  },
+  {
+    "Genus": "Sisyra",
+    "Species": "nigra",
+    "Family": "Sisyridae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342581,
+    "URL": "https://bugguide.net/node/view/1342581",
+    "Common Name": "Sisyra nigra"
+  },
+  {
+    "Genus": "Nolima",
+    "Species": "dine",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1342619,
+    "URL": "https://bugguide.net/node/view/1342619",
+    "Common Name": "Nolima dine"
+  },
+  {
+    "Genus": "Lomamyia",
+    "Species": "fulva",
+    "Family": "Berothidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1345637,
+    "URL": "https://bugguide.net/node/view/1345637",
+    "Common Name": "Lomamyia fulva"
+  },
+  {
+    "Genus": "Plega",
+    "Species": "signata",
+    "Family": "Mantispidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1576439,
+    "URL": "https://bugguide.net/node/view/1576439",
+    "Common Name": "Plega signata"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "tibialis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1577542,
+    "URL": "https://bugguide.net/node/view/1577542",
+    "Common Name": "Eremochrysa tibialis"
+  },
+  {
+    "Genus": "Eremochrysa",
+    "Species": "altilis",
+    "Family": "Chrysopidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1577584,
+    "URL": "https://bugguide.net/node/view/1577584",
+    "Common Name": "Eremochrysa altilis"
+  },
+  {
+    "Genus": "Brachynemurus",
+    "Species": "ferox",
+    "Family": "Myrmeleontidae",
+    "Order": "Neuroptera",
+    "BugGuideID": 1603229,
+    "URL": "https://bugguide.net/node/view/1603229",
+    "Common Name": "Brachynemurus ferox"
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "Genus": "Cryptocercus",
+    "Species": "punctulatus",
+    "Family": "Cryptocercidae",
+    "Order": "Blattodea",
+    "BugGuideID": 574,
+    "URL": "https://bugguide.net/node/view/574",
+    "Common Name": "Brown-hooded Cockroach"
+  },
+  {
+    "Genus": "Pseudomops",
+    "Species": "septentrionalis",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 7856,
+    "URL": "https://bugguide.net/node/view/7856",
+    "Common Name": "Pale Bordered Field Cockroach"
+  },
+  {
+    "Genus": "Pycnoscelus",
+    "Species": "surinamensis",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 16867,
+    "URL": "https://bugguide.net/node/view/16867",
+    "Common Name": "Surinam Cockroach"
+  },
+  {
+    "Genus": "Ectobius",
+    "Species": "lapponicus",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 26906,
+    "URL": "https://bugguide.net/node/view/26906",
+    "Common Name": "Dusky Cockroach"
+  },
+  {
+    "Genus": "Periplaneta",
+    "Species": "australasiae",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 31621,
+    "URL": "https://bugguide.net/node/view/31621",
+    "Common Name": "Australian Cockroach"
+  },
+  {
+    "Genus": "Periplaneta",
+    "Species": "americana",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 31622,
+    "URL": "https://bugguide.net/node/view/31622",
+    "Common Name": "American Cockroach"
+  },
+  {
+    "Genus": "Panchlora",
+    "Species": "nivea",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 31689,
+    "URL": "https://bugguide.net/node/view/31689",
+    "Common Name": "Green Banana Cockroach"
+  },
+  {
+    "Genus": "Eurycotis",
+    "Species": "floridana",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 33678,
+    "URL": "https://bugguide.net/node/view/33678",
+    "Common Name": "Florida Woods Cockroach"
+  },
+  {
+    "Genus": "Blattella",
+    "Species": "asahinai",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 33854,
+    "URL": "https://bugguide.net/node/view/33854",
+    "Common Name": "Asian Cockroach"
+  },
+  {
+    "Genus": "Blatta",
+    "Species": "orientalis",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 33932,
+    "URL": "https://bugguide.net/node/view/33932",
+    "Common Name": "Oriental Cockroach"
+  },
+  {
+    "Genus": "Blattella",
+    "Species": "germanica",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 70688,
+    "URL": "https://bugguide.net/node/view/70688",
+    "Common Name": "German Cockroach"
+  },
+  {
+    "Genus": "Reticulitermes",
+    "Species": "flavipes",
+    "Family": "Rhinotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 71259,
+    "URL": "https://bugguide.net/node/view/71259",
+    "Common Name": "Eastern Subterranean Termite"
+  },
+  {
+    "Genus": "Zootermopsis",
+    "Species": "angusticollis",
+    "Family": "Archotermopsidae",
+    "Order": "Blattodea",
+    "BugGuideID": 75929,
+    "URL": "https://bugguide.net/node/view/75929",
+    "Common Name": "Pacific coast dampwood termite"
+  },
+  {
+    "Genus": "Gnathamitermes",
+    "Species": "perplexus",
+    "Family": "Termitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 82394,
+    "URL": "https://bugguide.net/node/view/82394",
+    "Common Name": "Long-jawed Desert Termites"
+  },
+  {
+    "Genus": "Supella",
+    "Species": "longipalpa",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 85725,
+    "URL": "https://bugguide.net/node/view/85725",
+    "Common Name": "Brown-banded cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "virginica",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 115134,
+    "URL": "https://bugguide.net/node/view/115134",
+    "Common Name": "Virginia Wood Cockroach"
+  },
+  {
+    "Genus": "Periplaneta",
+    "Species": "fuliginosa",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 115161,
+    "URL": "https://bugguide.net/node/view/115161",
+    "Common Name": "Smoky Brown Cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "pennsylvanica",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 115969,
+    "URL": "https://bugguide.net/node/view/115969",
+    "Common Name": "Pennsylvania Wood Cockroach"
+  },
+  {
+    "Genus": "Shelfordella",
+    "Species": "lateralis",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 146445,
+    "URL": "https://bugguide.net/node/view/146445",
+    "Common Name": "Turkestan Cockroach"
+  },
+  {
+    "Genus": "Ectobius",
+    "Species": "pallidus",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 148079,
+    "URL": "https://bugguide.net/node/view/148079",
+    "Common Name": "Spotted Mediterranean Cockroach"
+  },
+  {
+    "Genus": "Ectobius",
+    "Species": "sylvestris",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 161813,
+    "URL": "https://bugguide.net/node/view/161813",
+    "Common Name": "Forest Cockroach"
+  },
+  {
+    "Genus": "Zootermopsis",
+    "Species": "nevadensis",
+    "Family": "Archotermopsidae",
+    "Order": "Blattodea",
+    "BugGuideID": 162746,
+    "URL": "https://bugguide.net/node/view/162746",
+    "Common Name": "Nevada Dampwood Termite"
+  },
+  {
+    "Genus": "Reticulitermes",
+    "Species": "hesperus",
+    "Family": "Rhinotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 183940,
+    "URL": "https://bugguide.net/node/view/183940",
+    "Common Name": "Western subterranean termite"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "bolliana",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 214973,
+    "URL": "https://bugguide.net/node/view/214973",
+    "Common Name": "Boll's Sandroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "americana",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 228482,
+    "URL": "https://bugguide.net/node/view/228482",
+    "Common Name": "American Wood Cockroach"
+  },
+  {
+    "Genus": "Euthlastoblatta",
+    "Species": "abortiva",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 270852,
+    "URL": "https://bugguide.net/node/view/270852",
+    "Common Name": "Euthlastoblatta abortiva"
+  },
+  {
+    "Genus": "Blattella",
+    "Species": "vaga",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 331787,
+    "URL": "https://bugguide.net/node/view/331787",
+    "Common Name": "Field Cockroach"
+  },
+  {
+    "Genus": "Luridiblatta",
+    "Species": "trivittata",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 341215,
+    "URL": "https://bugguide.net/node/view/341215",
+    "Common Name": "Luridiblatta trivittata"
+  },
+  {
+    "Genus": "Zootermopsis",
+    "Species": "laticeps",
+    "Family": "Archotermopsidae",
+    "Order": "Blattodea",
+    "BugGuideID": 349770,
+    "URL": "https://bugguide.net/node/view/349770",
+    "Common Name": "Arizona Dampwood Termite"
+  },
+  {
+    "Genus": "Ischnoptera",
+    "Species": "deropeltiformis",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 350628,
+    "URL": "https://bugguide.net/node/view/350628",
+    "Common Name": "Dark Wood Cockroach"
+  },
+  {
+    "Genus": "Tenuirostritermes",
+    "Species": "cinereus",
+    "Family": "Termitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 353276,
+    "URL": "https://bugguide.net/node/view/353276",
+    "Common Name": "Tenuirostritermes cinereus"
+  },
+  {
+    "Genus": "Chorisoneura",
+    "Species": "texensis",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 361040,
+    "URL": "https://bugguide.net/node/view/361040",
+    "Common Name": "Small Yellow Texas Cockroach"
+  },
+  {
+    "Genus": "Cariblatta",
+    "Species": "lutea",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 361044,
+    "URL": "https://bugguide.net/node/view/361044",
+    "Common Name": "Small Yellow Cockroach"
+  },
+  {
+    "Genus": "Marginitermes",
+    "Species": "hubbardi",
+    "Family": "Kalotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 378482,
+    "URL": "https://bugguide.net/node/view/378482",
+    "Common Name": "Light Western Drywood Termite"
+  },
+  {
+    "Genus": "Reticulitermes",
+    "Species": "hageni",
+    "Family": "Rhinotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 382425,
+    "URL": "https://bugguide.net/node/view/382425",
+    "Common Name": "Reticulitermes hageni"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "fulvescens",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 384919,
+    "URL": "https://bugguide.net/node/view/384919",
+    "Common Name": "Fulvous Wood Cockroach"
+  },
+  {
+    "Genus": "Eremoblatta",
+    "Species": "subdiaphana",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 385897,
+    "URL": "https://bugguide.net/node/view/385897",
+    "Common Name": "Eremoblatta subdiaphana"
+  },
+  {
+    "Genus": "Coptotermes",
+    "Species": "formosanus",
+    "Family": "Rhinotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 397332,
+    "URL": "https://bugguide.net/node/view/397332",
+    "Common Name": "Formosan Subterranean Termite"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "divisa",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 418629,
+    "URL": "https://bugguide.net/node/view/418629",
+    "Common Name": "Southern Wood Cockroach"
+  },
+  {
+    "Genus": "Aglaopteryx",
+    "Species": "gemma",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 441818,
+    "URL": "https://bugguide.net/node/view/441818",
+    "Common Name": "Little Gem Cockroach"
+  },
+  {
+    "Genus": "Plectoptera",
+    "Species": "picta",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 454747,
+    "URL": "https://bugguide.net/node/view/454747",
+    "Common Name": "Plectoptera picta"
+  },
+  {
+    "Genus": "Neotermes",
+    "Species": "castaneus",
+    "Family": "Kalotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 468508,
+    "URL": "https://bugguide.net/node/view/468508",
+    "Common Name": "Southern Damp-wood Termite"
+  },
+  {
+    "Genus": "Incisitermes",
+    "Species": "minor",
+    "Family": "Kalotermitidae",
+    "Order": "Blattodea",
+    "BugGuideID": 469117,
+    "URL": "https://bugguide.net/node/view/469117",
+    "Common Name": "Western Drywood Termite"
+  },
+  {
+    "Genus": "Periplaneta",
+    "Species": "brunnea",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 516597,
+    "URL": "https://bugguide.net/node/view/516597",
+    "Common Name": "Brown Cockroach"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "erratica",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 553906,
+    "URL": "https://bugguide.net/node/view/553906",
+    "Common Name": "Arenivaga erratica"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "genitalis",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 617436,
+    "URL": "https://bugguide.net/node/view/617436",
+    "Common Name": "Arenivaga genitalis"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "hopkinsorum",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 617437,
+    "URL": "https://bugguide.net/node/view/617437",
+    "Common Name": "Arenivaga hopkinsorum"
+  },
+  {
+    "Genus": "Blaberus",
+    "Species": "atropos",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 624254,
+    "URL": "https://bugguide.net/node/view/624254",
+    "Common Name": "Blaberus atropos"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "uhleriana",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 646831,
+    "URL": "https://bugguide.net/node/view/646831",
+    "Common Name": "Uhler's Wood Cockroach"
+  },
+  {
+    "Genus": "Ischnoptera",
+    "Species": "bilunata",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 696657,
+    "URL": "https://bugguide.net/node/view/696657",
+    "Common Name": "Ischnoptera bilunata"
+  },
+  {
+    "Genus": "Nauphoeta",
+    "Species": "cinerea",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 704867,
+    "URL": "https://bugguide.net/node/view/704867",
+    "Common Name": "Lobster Cockroach"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "investigata",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 706362,
+    "URL": "https://bugguide.net/node/view/706362",
+    "Common Name": "Arenivaga investigata"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "tonkawa",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 724704,
+    "URL": "https://bugguide.net/node/view/724704",
+    "Common Name": "Arenivaga tonkawa"
+  },
+  {
+    "Genus": "Cryptocercus",
+    "Species": "clevelandi",
+    "Family": "Cryptocercidae",
+    "Order": "Blattodea",
+    "BugGuideID": 730303,
+    "URL": "https://bugguide.net/node/view/730303",
+    "Common Name": "Cryptocercus clevelandi"
+  },
+  {
+    "Genus": "Cryptocercus",
+    "Species": "darwini",
+    "Family": "Cryptocercidae",
+    "Order": "Blattodea",
+    "BugGuideID": 730354,
+    "URL": "https://bugguide.net/node/view/730354",
+    "Common Name": "Cryptocercus darwini"
+  },
+  {
+    "Genus": "Cryptocercus",
+    "Species": "garciai",
+    "Family": "Cryptocercidae",
+    "Order": "Blattodea",
+    "BugGuideID": 730356,
+    "URL": "https://bugguide.net/node/view/730356",
+    "Common Name": "Cryptocercus garciai"
+  },
+  {
+    "Genus": "Cryptocercus",
+    "Species": "wrighti",
+    "Family": "Cryptocercidae",
+    "Order": "Blattodea",
+    "BugGuideID": 730357,
+    "URL": "https://bugguide.net/node/view/730357",
+    "Common Name": "Cryptocercus wrighti"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "sequoia",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 739803,
+    "URL": "https://bugguide.net/node/view/739803",
+    "Common Name": "Arenivaga sequoia"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "bolliana",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 829762,
+    "URL": "https://bugguide.net/node/view/829762",
+    "Common Name": "Boll's Wood Cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "lata",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 857234,
+    "URL": "https://bugguide.net/node/view/857234",
+    "Common Name": "Broad Wood Cockroach"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "tenax",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 869745,
+    "URL": "https://bugguide.net/node/view/869745",
+    "Common Name": "Arenivaga tenax"
+  },
+  {
+    "Genus": "Ectobius",
+    "Species": "lucidus",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 898700,
+    "URL": "https://bugguide.net/node/view/898700",
+    "Common Name": "Ectobius lucidus"
+  },
+  {
+    "Genus": "Epilampra",
+    "Species": "maya",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 940194,
+    "URL": "https://bugguide.net/node/view/940194",
+    "Common Name": "Epilampra maya"
+  },
+  {
+    "Genus": "Eurycotis",
+    "Species": "lixa",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 940249,
+    "URL": "https://bugguide.net/node/view/940249",
+    "Common Name": "Eurycotis lixa"
+  },
+  {
+    "Genus": "Blaberus",
+    "Species": "discoidalis",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 940269,
+    "URL": "https://bugguide.net/node/view/940269",
+    "Common Name": "Blaberus discoidalis"
+  },
+  {
+    "Genus": "Neoblattella",
+    "Species": "detersa",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 940273,
+    "URL": "https://bugguide.net/node/view/940273",
+    "Common Name": "Neoblattella detersa"
+  },
+  {
+    "Genus": "Compsodes",
+    "Species": "schwarzi",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 950069,
+    "URL": "https://bugguide.net/node/view/950069",
+    "Common Name": "Schwarz's Hooded Cockroach"
+  },
+  {
+    "Genus": "Blaberus",
+    "Species": "craniifer",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 950385,
+    "URL": "https://bugguide.net/node/view/950385",
+    "Common Name": "Death's Head Cockroach"
+  },
+  {
+    "Genus": "Latiblattella",
+    "Species": "lucifrons",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1005539,
+    "URL": "https://bugguide.net/node/view/1005539",
+    "Common Name": "Latiblattella lucifrons"
+  },
+  {
+    "Genus": "Latiblattella",
+    "Species": "rehni",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1005540,
+    "URL": "https://bugguide.net/node/view/1005540",
+    "Common Name": "Latiblattella rehni"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "caudelli",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1005628,
+    "URL": "https://bugguide.net/node/view/1005628",
+    "Common Name": "Caudell's Wood Cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "desertae",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1014463,
+    "URL": "https://bugguide.net/node/view/1014463",
+    "Common Name": "Desert Wood Cockroach"
+  },
+  {
+    "Genus": "Chorisoneura",
+    "Species": "parishi",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1022426,
+    "URL": "https://bugguide.net/node/view/1022426",
+    "Common Name": "Chorisoneura parishi"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "floridensis",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1036236,
+    "URL": "https://bugguide.net/node/view/1036236",
+    "Common Name": "Florida Sand Cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "zebra",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1037402,
+    "URL": "https://bugguide.net/node/view/1037402",
+    "Common Name": "Zebra Wood Cockroach"
+  },
+  {
+    "Genus": "Plectoptera",
+    "Species": "poeyi",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1071902,
+    "URL": "https://bugguide.net/node/view/1071902",
+    "Common Name": "Florida Beetle Roach"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "gaiophanes",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1084759,
+    "URL": "https://bugguide.net/node/view/1084759",
+    "Common Name": "Arenivaga gaiophanes"
+  },
+  {
+    "Genus": "Arenivaga",
+    "Species": "apacha",
+    "Family": "Corydiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1084760,
+    "URL": "https://bugguide.net/node/view/1084760",
+    "Common Name": "Arenivaga apacha"
+  },
+  {
+    "Genus": "Hemiblabera",
+    "Species": "tenebricosa",
+    "Family": "Blaberidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1152802,
+    "URL": "https://bugguide.net/node/view/1152802",
+    "Common Name": "Broad Keys Cockroach"
+  },
+  {
+    "Genus": "Cariblatta",
+    "Species": "minima",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1216977,
+    "URL": "https://bugguide.net/node/view/1216977",
+    "Common Name": "Least Yellow Cockroach"
+  },
+  {
+    "Genus": "Parcoblatta",
+    "Species": "notha",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1230330,
+    "URL": "https://bugguide.net/node/view/1230330",
+    "Common Name": "Arizona Wood Roach"
+  },
+  {
+    "Genus": "Symploce",
+    "Species": "morsei",
+    "Family": "Ectobiidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1327558,
+    "URL": "https://bugguide.net/node/view/1327558",
+    "Common Name": "Symploce morsei"
+  },
+  {
+    "Genus": "Neostylopyga",
+    "Species": "rhombifolia",
+    "Family": "Blattidae",
+    "Order": "Blattodea",
+    "BugGuideID": 1352306,
+    "URL": "https://bugguide.net/node/view/1352306",
+    "Common Name": "Harlequin Roach"
+  }
+]

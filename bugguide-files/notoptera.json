@@ -1,0 +1,38 @@
+[
+  {
+    "Genus": "Grylloblatta",
+    "Species": "bifratrilecta",
+    "Family": "Grylloblattidae",
+    "Order": "Notoptera",
+    "BugGuideID": 280715,
+    "URL": "https://bugguide.net/node/view/280715",
+    "Common Name": "Grylloblatta bifratrilecta"
+  },
+  {
+    "Genus": "Grylloblatta",
+    "Species": "campodeiformis",
+    "Family": "Grylloblattidae",
+    "Order": "Notoptera",
+    "BugGuideID": 410970,
+    "URL": "https://bugguide.net/node/view/410970",
+    "Common Name": "Northern Rock Crawler"
+  },
+  {
+    "Genus": "Grylloblatta",
+    "Species": "chintimini",
+    "Family": "Grylloblattidae",
+    "Order": "Notoptera",
+    "BugGuideID": 897345,
+    "URL": "https://bugguide.net/node/view/897345",
+    "Common Name": "Grylloblatta chintimini"
+  },
+  {
+    "Genus": "Grylloblatta",
+    "Species": "chirurgica",
+    "Family": "Grylloblattidae",
+    "Order": "Notoptera",
+    "BugGuideID": 1020927,
+    "URL": "https://bugguide.net/node/view/1020927",
+    "Common Name": "Grylloblatta chirurgica"
+  }
+]
